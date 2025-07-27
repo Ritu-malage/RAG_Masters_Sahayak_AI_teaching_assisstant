@@ -1,0 +1,10 @@
+# backend/requirements.txt
+Flask
+Flask-Cors
+google-cloud-aiplatform
+firebase-admin
+requests
+numpy
+opencv-python-headless  # Use headless for servers
+google-cloud-texttospeech
+google-cloud-speech
